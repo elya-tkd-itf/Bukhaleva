@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="tab_text_1">Последние</string>
+    <string name="tab_text_2">Лучшие</string>
+    <string name="tab_text_3">Горячие</string>
+    <string name="error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+</resources>
